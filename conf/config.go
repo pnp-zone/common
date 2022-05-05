@@ -9,14 +9,22 @@ type Database struct {
 	Password string
 }
 
-type Generic struct {
-	TemplatePath string
-	StaticPath   string
-	PluginPath   string
+type AllowedHost struct {
+	Host  string
+	Https bool
+}
+
+type Server struct {
+	ListenAddress           string
+	AllowedHosts            []AllowedHost
+	UseForwardedProtoHeader bool
+	TemplatePath            string
+	StaticPath              string
+	PluginPath              string
 }
 
 type Config struct {
-	Generic  Generic
+	Server   Server
 	Database Database
 }
 

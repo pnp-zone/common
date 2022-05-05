@@ -7,3 +7,5 @@ github.com/myOmikron/echotools v0.0.0-20220426213130-f37725443546 h1:BxVJ+mn/X3X
 github.com/myOmikron/echotools v0.0.0-20220426213130-f37725443546/go.mod h1:MekT8cB6zOSGZPeRmvX5WOQN9TPpxXGzbttJqCLgYPo=
 gorm.io/gorm v1.23.3 h1:jYh3nm7uLZkrMVfA8WVNjDZryKfr7W+HTlInVgKFJAg=
 gorm.io/gorm v1.23.3/go.mod h1:l2lP/RyAtc1ynaTjFksBde/O8v9oOGIApu2/xRitmZk=
+gorm.io/gorm v1.23.5 h1:TnlF26wScKSvknUC/Rn8t0NLLM22fypYBlvj1+aH6dM=
+gorm.io/gorm v1.23.5/go.mod h1:l2lP/RyAtc1ynaTjFksBde/O8v9oOGIApu2/xRitmZk=
