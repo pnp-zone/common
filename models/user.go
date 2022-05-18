@@ -1,9 +1,11 @@
 package models
 
-import "github.com/myOmikron/echotools/utilitymodels"
+import (
+	"github.com/myOmikron/echotools/utilitymodels"
+)
 
 type User struct {
-	utilitymodels.CommonSoftDelete
+	utilitymodels.Common
 	UserID             uint
 	User               utilitymodels.User
 	ForcePasswordReset bool

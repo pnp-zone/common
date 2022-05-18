@@ -1,11 +1,2 @@
-github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
-github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
-github.com/jinzhu/now v1.1.4/go.mod h1:d3SSVoowX0Lcu0IBviAWJpolVfI5UJVZZ7cO71lE/z8=
-github.com/jinzhu/now v1.1.5 h1:/o9tlHleP7gOFmsnYNz3RGnqzefHA47wQpKrrdTIwXQ=
-github.com/jinzhu/now v1.1.5/go.mod h1:d3SSVoowX0Lcu0IBviAWJpolVfI5UJVZZ7cO71lE/z8=
-github.com/myOmikron/echotools v0.0.0-20220426213130-f37725443546 h1:BxVJ+mn/X3Xa1yl1sVp9ymz4U5WtEuwQ5yy1BlBRTn8=
-github.com/myOmikron/echotools v0.0.0-20220426213130-f37725443546/go.mod h1:MekT8cB6zOSGZPeRmvX5WOQN9TPpxXGzbttJqCLgYPo=
-gorm.io/gorm v1.23.3 h1:jYh3nm7uLZkrMVfA8WVNjDZryKfr7W+HTlInVgKFJAg=
-gorm.io/gorm v1.23.3/go.mod h1:l2lP/RyAtc1ynaTjFksBde/O8v9oOGIApu2/xRitmZk=
-gorm.io/gorm v1.23.5 h1:TnlF26wScKSvknUC/Rn8t0NLLM22fypYBlvj1+aH6dM=
-gorm.io/gorm v1.23.5/go.mod h1:l2lP/RyAtc1ynaTjFksBde/O8v9oOGIApu2/xRitmZk=
+github.com/myOmikron/echotools v0.2.0 h1:A0kdTfoDMRAmIFmyhiamvI0S+8EZRy9xM+RDmThYmzg=
+github.com/myOmikron/echotools v0.2.0/go.mod h1:tILB6K8Pxgpj3Vjkjc3RQ6lbHe53+qwGxiZPZymQ6cI=
